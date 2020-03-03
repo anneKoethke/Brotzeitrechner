@@ -9,3 +9,8 @@ responsive design, i.e. it works on all common browsers - desktop and mobile (IE
 
 ### what it should look like
 ![alt text](https://github.com/anneKoethke/Brotzeitrechner/blob/master/res/img/IE_default.png)
+
+
+### ToDos:
+- get beeter data 
+- Tooltip on small screens can be out of display
