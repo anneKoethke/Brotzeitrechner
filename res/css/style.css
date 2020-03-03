@@ -1,22 +1,5 @@
-/*
-  Dunkelgrau: #3e3e3e
-  Hellgrau:	#8e8e8e
-  Dunkelblau	#006699
-  Mittelblau:	#6699cc
-  Hellblau: 	#a7ccdc
-*/
-
-/* GENERAL */
-@font-face {
-  font-family: 'National2WebRegular';
-  src: url('../font/national2/National2Web-Regular.eot'); /* IE9 Compat Modes */
-  src: url('../font/national2/National2Web-Bold.woff2') format('woff2'); /* Super Modern Browsers */
-  src: url('../font/national2/National2Web-Regular.woff') format('woff'); /* Pretty Modern Browsers */
-  font-weight: 400;
-  font-style: normal;
-}
 body {
-  font-family: 'National2WebRegular', serif;
+  font-family: Arial, Helvetica, sans-serif;
   max-width: 870px;
   margin: 0 auto;
   user-select: none;
