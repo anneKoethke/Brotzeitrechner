@@ -12,5 +12,5 @@ responsive design, i.e. it works on all common browsers - desktop and mobile (IE
 
 
 ### ToDos:
-- get beeter data 
+- get better data 
 - Tooltip on small screens can be out of display
