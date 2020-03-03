@@ -18,8 +18,8 @@ App.TooltipModule = function () {
     let tooltip = getTooltipFromHTML(item);
     // tooltip not visible? -> show
     (tooltip.classList.contains("hidden"))? tooltip.classList.remove("hidden"): null;
-    // prevent overflow to the right for tooltips
-    (tooltip.getBoundingClientRect().x + tooltip.getBoundingClientRect().width >= body.getBoundingClientRect().width)? tooltip.style.left = "-170px" : null; 
+    // prevent overflow to the right for tooltips (and to the left for small displays, i.e. iPhone 5/SE)
+    (tooltip.getBoundingClientRect().x + tooltip.getBoundingClientRect().width >= body.getBoundingClientRect().width)? tooltip.style.left = "-120px" : null; 
     // hide again after some time (needed in mobile)
     setTimeout(() => {
       removeTooltipFromSelectableFoodItem(item);
