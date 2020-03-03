@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Weizenbrötchen (Semmel)",
+    "amount": "Brötchen, ganz (60,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/01.svg)",
+    "ingredients": {
+      "Brennwert": "175 kcal 731 kJ",
+      "Brennwert_gda_permille": 87,
+      "Salz": 1100,
+      "Salz_gda_permille": 181,
+      "Zucker": 1800,
+      "Zucker_gda_permille": 37,
+      "Fett": 1100,
+      "Fett_gda_permille": 17,
+      "Eiweiß": 6100,
+      "Eiweiß_gda_permille": 83,
+      "Kohlenhydrate": 33500,
+      "Kohlenhydrate_gda_permille": 125
+    }
+  },
+  {
+    "id": 2,
+    "name": "Breze, Lauge, Ihle Frischbäck",
+    "amount": "Portion (90,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/02.svg)",
+    "ingredients": {
+      "Brennwert": "342 kcal 1.432 kJ",
+      "Brennwert_gda_permille": 171,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 2300,
+      "Fett_gda_permille": 36,
+      "Eiweiß": 9000,
+      "Eiweiß_gda_permille": 123,
+      "Kohlenhydrate": 72000,
+      "Kohlenhydrate_gda_permille": 269
+    }
+  },
+  {
+    "id": 3,
+    "name": "Roggen Sauerteigbrot, Migros",
+    "amount": "Standardportion (1,0 g)",
+    "multiplier": "100",
+    "img": "url(./res/img/svg/03.svg)",
+    "ingredients": {
+      "Brennwert": "217 kcal 909 kJ",
+      "Brennwert_gda_permille": 109,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 3000,
+      "Fett_gda_permille": 46,
+      "Eiweiß": 6000,
+      "Eiweiß_gda_permille": 82,
+      "Kohlenhydrate": 37000,
+      "Kohlenhydrate_gda_permille": 138
+    }
+  },
+  {
+    "id": 4,
+    "name": "Obazda Bayerischer Brotzeit Käse, Alpenhain",
+    "amount": "Portion (20,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/04.svg)",
+    "ingredients": {
+      "Brennwert": "68 kcal 286 kJ",
+      "Brennwert_gda_permille": 34,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 6000,
+      "Fett_gda_permille": 92,
+      "Eiweiß": 2800,
+      "Eiweiß_gda_permille": 38,
+      "Kohlenhydrate": 600,
+      "Kohlenhydrate_gda_permille": 2
+    }
+  },
+  {
+    "id": 5,
+    "name": "Gouda, Gutes Land (Netto)",
+    "amount": "Scheibe (35,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/05.svg)",
+    "ingredients": {
+      "Brennwert": "124 kcal 517 kJ",
+      "Brennwert_gda_permille": 62,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 10200,
+      "Fett_gda_permille": 156,
+      "Eiweiß": 8100,
+      "Eiweiß_gda_permille": 110,
+      "Kohlenhydrate": 0,
+      "Kohlenhydrate_gda_permille": 1
+    }
+  },
+  {
+    "id": 6,
+    "name": "Emmentaler 45% Fett i.Tr.",
+    "amount": "Portion (40,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/06.svg)",
+    "ingredients": {
+      "Brennwert": "151 kcal 633 kJ",
+      "Brennwert_gda_permille": 76,
+      "Salz": 0,
+      "Salz_gda_permille": 9,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 11900,
+      "Fett_gda_permille": 184,
+      "Eiweiß": 11100,
+      "Eiweiß_gda_permille": 152,
+      "Kohlenhydrate": 0,
+      "Kohlenhydrate_gda_permille": 0
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bergkäse 45% Fett i.Tr.",
+    "amount": "Portion (40,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/07.svg)",
+    "ingredients": {
+      "Brennwert": "154 kcal 643 kJ",
+      "Brennwert_gda_permille": 77,
+      "Salz": 300,
+      "Salz_gda_permille": 51,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 12000,
+      "Fett_gda_permille": 185,
+      "Eiweiß": 11600,
+      "Eiweiß_gda_permille": 158,
+      "Kohlenhydrate": 0,
+      "Kohlenhydrate_gda_permille": 0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Camembert Käse 60% Fett i.Tr.",
+    "amount": "Portion (50,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/08.svg)",
+    "ingredients": {
+      "Brennwert": "187 kcal 783 kJ",
+      "Brennwert_gda_permille": 94,
+      "Salz": 900,
+      "Salz_gda_permille": 150,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 17000,
+      "Fett_gda_permille": 262,
+      "Eiweiß": 9000,
+      "Eiweiß_gda_permille": 123,
+      "Kohlenhydrate": 0,
+      "Kohlenhydrate_gda_permille": 0
+    }
+  },
+  {
+    "id": 9,
+    "name": "Bayerischer Leberkäse, Ja! (Rewe)",
+    "amount": "Scheibe (133,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/09.svg)",
+    "ingredients": {
+      "Brennwert": "383 kcal 1.604 kJ",
+      "Brennwert_gda_permille": 192,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 34700,
+      "Fett_gda_permille": 534,
+      "Eiweiß": 16400,
+      "Eiweiß_gda_permille": 224,
+      "Kohlenhydrate": 1300,
+      "Kohlenhydrate_gda_permille": 5
+    }
+  },
+  {
+    "id": 10,
+    "name": "Blutwurst (Rotwurst)",
+    "amount": "Scheibe (14,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/10.svg)",
+    "ingredients": {
+      "Brennwert": "48 kcal 202 kJ",
+      "Brennwert_gda_permille": 24,
+      "Salz": 300,
+      "Salz_gda_permille": 56,
+      "Zucker": 300,
+      "Zucker_gda_permille": 5,
+      "Fett": 4400,
+      "Fett_gda_permille": 68,
+      "Eiweiß": 2000,
+      "Eiweiß_gda_permille": 27,
+      "Kohlenhydrate": 300,
+      "Kohlenhydrate_gda_permille": 1
+    }
+  },
+  {
+    "id": 11,
+    "name": "Radieschen, frisch",
+    "amount": "Ganze, groß (9,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/11.svg)",
+    "ingredients": {
+      "Brennwert": "2 kcal 6 kJ",
+      "Brennwert_gda_permille": 1,
+      "Salz": 0,
+      "Salz_gda_permille": 1,
+      "Zucker": 200,
+      "Zucker_gda_permille": 4,
+      "Fett": 0,
+      "Fett_gda_permille": 1,
+      "Eiweiß": 0,
+      "Eiweiß_gda_permille": 1,
+      "Kohlenhydrate": 200,
+      "Kohlenhydrate_gda_permille": 1
+    }
+  },
+  {
+    "id": 12,
+    "name": "Krautsalat, Ofterdinger (Aldi)",
+    "amount": "Portion (150,0 g)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/12.svg)",
+    "ingredients": {
+      "Brennwert": "153 kcal 641 kJ",
+      "Brennwert_gda_permille": 77,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 8700,
+      "Fett_gda_permille": 134,
+      "Eiweiß": 1400,
+      "Eiweiß_gda_permille": 18,
+      "Kohlenhydrate": 15900,
+      "Kohlenhydrate_gda_permille": 59
+    }
+  },
+  {
+    "id": 13,
+    "name": "Bayerischer Wurstsalat, Gruninger",
+    "amount": "Standardportion (1,0 g)",
+    "multiplier": "100",
+    "img": "url(./res/img/svg/13.svg)",
+    "ingredients": {
+      "Brennwert": "164 kcal 687 kJ",
+      "Brennwert_gda_permille": 82,
+      "Salz": 1600,
+      "Salz_gda_permille": 267,
+      "Zucker": 2000,
+      "Zucker_gda_permille": 40,
+      "Fett": 13000,
+      "Fett_gda_permille": 200,
+      "Eiweiß": 9000,
+      "Eiweiß_gda_permille": 123,
+      "Kohlenhydrate": 2500,
+      "Kohlenhydrate_gda_permille": 9
+    }
+  },
+  {
+    "id": 14,
+    "name": "Hefeweizen alkoholfrei, Gutmann",
+    "amount": "Glas (500,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/14.svg)",
+    "ingredients": {
+      "Brennwert": "130 kcal 544 kJ",
+      "Brennwert_gda_permille": 65,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 0,
+      "Fett_gda_permille": 0,
+      "Eiweiß": 2500,
+      "Eiweiß_gda_permille": 34,
+      "Kohlenhydrate": 27000,
+      "Kohlenhydrate_gda_permille": 101
+    }
+  },
+  {
+    "id": 15,
+    "name": "Stilles Wasser, Netto",
+    "amount": "Flasche (500,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/15.svg)",
+    "ingredients": {
+      "Brennwert": "0 kcal 0 kJ",
+      "Brennwert_gda_permille": 0,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 0,
+      "Fett_gda_permille": 0,
+      "Eiweiß": 0,
+      "Eiweiß_gda_permille": 0,
+      "Kohlenhydrate": 0,
+      "Kohlenhydrate_gda_permille": 0
+    }
+  },
+  {
+    "id": 16,
+    "name": "Coca Cola (Coke), Coca Cola",
+    "amount": "Glas (250,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/16.svg)",
+    "ingredients": {
+      "Brennwert": "105 kcal 440 kJ",
+      "Brennwert_gda_permille": 53,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 26500,
+      "Zucker_gda_permille": 530,
+      "Fett": 0,
+      "Fett_gda_permille": 0,
+      "Eiweiß": 0,
+      "Eiweiß_gda_permille": 0,
+      "Kohlenhydrate": 26500,
+      "Kohlenhydrate_gda_permille": 99
+    }
+  },
+  {
+    "id": 17,
+    "name": "Zitronen Limonade, Gut & Günstig (Edeka)",
+    "amount": "Glas (200,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/17.svg)",
+    "ingredients": {
+      "Brennwert": "74 kcal 310 kJ",
+      "Brennwert_gda_permille": 37,
+      "Salz": 0,
+      "Salz_gda_permille": 13,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 0,
+      "Fett_gda_permille": 0,
+      "Eiweiß": 0,
+      "Eiweiß_gda_permille": 0,
+      "Kohlenhydrate": 18200,
+      "Kohlenhydrate_gda_permille": 68
+    }
+  },
+  {
+    "id": 18,
+    "name": "Helles, Augustiner Bräu",
+    "amount": "Flasche (500,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/18.svg)",
+    "ingredients": {
+      "Brennwert": "245 kcal 1.026 kJ",
+      "Brennwert_gda_permille": 123,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 0,
+      "Fett_gda_permille": 0,
+      "Eiweiß": 0,
+      "Eiweiß_gda_permille": 0,
+      "Kohlenhydrate": 25000,
+      "Kohlenhydrate_gda_permille": 93
+    }
+  },
+  {
+    "id": 19,
+    "name": "Weizenbier (Weißbier, Hefeweizen) 5 Vol.%",
+    "amount": "Flasche (500,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/19.svg)",
+    "ingredients": {
+      "Brennwert": "190 kcal 795 kJ",
+      "Brennwert_gda_permille": 95,
+      "Salz": 0,
+      "Salz_gda_permille": 8,
+      "Zucker": 1200,
+      "Zucker_gda_permille": 24,
+      "Fett": 0,
+      "Fett_gda_permille": 0,
+      "Eiweiß": 1500,
+      "Eiweiß_gda_permille": 21,
+      "Kohlenhydrate": 15200,
+      "Kohlenhydrate_gda_permille": 57
+    }
+  },
+  {
+    "id": 20,
+    "name": "Radler, Neumarkter Lammsbräu",
+    "amount": "Flasche (500,0 ml)",
+    "multiplier": "1",
+    "img": "url(./res/img/svg/20.svg)",
+    "ingredients": {
+      "Brennwert": "208 kcal 871 kJ",
+      "Brennwert_gda_permille": 104,
+      "Salz": 0,
+      "Salz_gda_permille": 0,
+      "Zucker": 0,
+      "Zucker_gda_permille": 0,
+      "Fett": 500,
+      "Fett_gda_permille": 8,
+      "Eiweiß": 1500,
+      "Eiweiß_gda_permille": 21,
+      "Kohlenhydrate": 28500,
+      "Kohlenhydrate_gda_permille": 106
+    }
+  }
+]
