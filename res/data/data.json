@@ -1,0 +1,423 @@
+[
+  {
+    "id": 1,
+    "name": "Semmel",
+    "amount": "ganzes Brötchen (60 g)",
+    "img": "url(./res/img/svg/01.svg)",
+    "ingredients": {
+      "cal_kcal": 175,
+      "cal_kJ": 731,
+      "cal_gda_permille": 87,
+      "salt": 1100,
+      "salt_gda_permille": 181,
+      "sugar": 1800,
+      "sugar_gda_permille": 37,
+      "fat": 1100,
+      "fat_gda_permille": 17,
+      "egg": 6100,
+      "egg_gda_permille": 83,
+      "carb": 33500,
+      "carb_gda_permille": 125
+    }
+  },
+  {
+    "id": 2,
+    "name": "Breze",
+    "amount": "(90 g)",
+    "img": "url(./res/img/svg/02.svg)",
+    "ingredients": {
+      "cal_kcal": 342,
+      "cal_kJ": 1432,
+      "cal_gda_permille": 171,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 2300,
+      "fat_gda_permille": 36,
+      "egg": 9000,
+      "egg_gda_permille": 123,
+      "carb": 72000,
+      "carb_gda_permille": 269
+    }
+  },
+  {
+    "id": 3,
+    "name": "Roggenbrot (Sauerteig)",
+    "amount": "drei Scheiben (150 g)",
+    "img": "url(./res/img/svg/03.svg)",
+    "ingredients": {
+      "cal_kcal": 326,
+      "cal_kJ": 1363,
+      "cal_gda_permille": 163,
+      "salt": 700,
+      "salt_gda_permille": 1,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 4500,
+      "fat_gda_permille": 69,
+      "egg": 9000,
+      "egg_gda_permille": 123,
+      "carb": 55500,
+      "carb_gda_permille": 207
+    }
+  },
+  {
+    "id": 4,
+    "name": "Obazda",
+    "amount": "eine Portion (60 g)",
+    "img": "url(./res/img/svg/04.svg)",
+    "ingredients": {
+      "cal_kcal": 205,
+      "cal_kJ": 857,
+      "cal_gda_permille": 102,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 18000,
+      "fat_gda_permille": 277,
+      "egg": 8400,
+      "egg_gda_permille": 115,
+      "carb": 1800,
+      "carb_gda_permille": 7
+    }
+  },
+  {
+    "id": 5,
+    "name": "Gouda",
+    "amount": "drei Scheiben (105 g)",
+    "img": "url(./res/img/svg/05.svg)",
+    "ingredients": {
+      "cal_kcal": 371,
+      "cal_kJ": 1552,
+      "cal_gda_permille": 185,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 30400,
+      "fat_gda_permille": 468,
+      "egg": 24200,
+      "egg_gda_permille": 331,
+      "carb": 100,
+      "carb_gda_permille": 1
+    }
+  },
+  {
+    "id": 6,
+    "name": "Emmentaler",
+    "amount": "drei Scheiben (75 g)",
+    "img": "url(./res/img/svg/06.svg)",
+    "ingredients": {
+      "cal_kcal": 284,
+      "cal_kJ": 1187,
+      "cal_gda_permille": 142,
+      "salt": 100,
+      "salt_gda_permille": 18,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 22400,
+      "fat_gda_permille": 344,
+      "egg": 20700,
+      "egg_gda_permille": 284,
+      "carb": 0,
+      "carb_gda_permille": 0
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bergkäse",
+    "amount": "drei Scheiben (60 g)",
+    "img": "url(./res/img/svg/07.svg)",
+    "ingredients": {
+      "cal_kcal": 231,
+      "cal_kJ": 965,
+      "cal_gda_permille": 115,
+      "salt": 500,
+      "salt_gda_permille": 76,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 18000,
+      "fat_gda_permille": 277,
+      "egg": 17300,
+      "egg_gda_permille": 238,
+      "carb": 0,
+      "carb_gda_permille": 0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Camembert",
+    "amount": "eine Portion (50 g)",
+    "img": "url(./res/img/svg/08.svg)",
+    "ingredients": {
+      "cal_kcal": 187,
+      "cal_kJ": 783,
+      "cal_gda_permille": 94,
+      "salt": 900,
+      "salt_gda_permille": 150,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 17000,
+      "fat_gda_permille": 262,
+      "egg": 9000,
+      "egg_gda_permille": 123,
+      "carb": 0,
+      "carb_gda_permille": 0
+    }
+  },
+  {
+    "id": 9,
+    "name": "Bayerischer Leberkäse",
+    "amount": "Scheibe (133 g)",
+    "img": "url(./res/img/svg/09.svg)",
+    "ingredients": {
+      "cal_kcal": 383,
+      "cal_kJ": 1604,
+      "cal_gda_permille": 192,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 34700,
+      "fat_gda_permille": 534,
+      "egg": 16400,
+      "egg_gda_permille": 224,
+      "carb": 1300,
+      "carb_gda_permille": 5
+    }
+  },
+  {
+    "id": 10,
+    "name": "Blutwurst (Rotwurst)",
+    "amount": "sechs Scheiben (84 g)",
+    "img": "url(./res/img/svg/10.svg)",
+    "ingredients": {
+      "cal_kcal": 289,
+      "cal_kJ": 1210,
+      "cal_gda_permille": 144,
+      "salt": 2000,
+      "salt_gda_permille": 335,
+      "sugar": 1500,
+      "sugar_gda_permille": 31,
+      "fat": 26400,
+      "fat_gda_permille": 407,
+      "egg": 11800,
+      "egg_gda_permille": 161,
+      "carb": 1800,
+      "carb_gda_permille": 7
+    }
+  },
+  {
+    "id": 11,
+    "name": "Radieschen",
+    "amount": "fünf Stück (45 g)",
+    "img": "url(./res/img/svg/11.svg)",
+    "ingredients": {
+      "cal_kcal": 8,
+      "cal_kJ": 33,
+      "cal_gda_permille": 4,
+      "salt": 100,
+      "salt_gda_permille": 1,
+      "sugar": 1000,
+      "sugar_gda_permille": 19,
+      "fat": 100,
+      "fat_gda_permille": 1,
+      "egg": 500,
+      "egg_gda_permille": 6,
+      "carb": 1000,
+      "carb_gda_permille": 4
+    }
+  },
+  {
+    "id": 12,
+    "name": "Krautsalat",
+    "amount": "(150 g)",
+    "img": "url(./res/img/svg/12.svg)",
+    "ingredients": {
+      "cal_kcal": 153,
+      "cal_kJ": 641,
+      "cal_gda_permille": 77,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 8700,
+      "fat_gda_permille": 134,
+      "egg": 1400,
+      "egg_gda_permille": 18,
+      "carb": 15900,
+      "carb_gda_permille": 59
+    }
+  },
+  {
+    "id": 13,
+    "name": "Wurstsalat",
+    "amount": "(100 g)",
+    "img": "url(./res/img/svg/13.svg)",
+    "ingredients": {
+      "cal_kcal": 164,
+      "cal_kJ": 687,
+      "cal_gda_permille": 82,
+      "salt": 1600,
+      "salt_gda_permille": 267,
+      "sugar": 2000,
+      "sugar_gda_permille": 40,
+      "fat": 13000,
+      "fat_gda_permille": 200,
+      "egg": 9000,
+      "egg_gda_permille": 123,
+      "carb": 2500,
+      "carb_gda_permille": 9
+    }
+  },
+  {
+    "id": 14,
+    "name": "Stilles Wasser",
+    "amount": "Glas (500 ml)",
+    "img": "url(./res/img/svg/14.svg)",
+    "ingredients": {
+      "cal_kcal": 0,
+      "cal_kJ": 0,
+      "cal_gda_permille": 0,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 0,
+      "fat_gda_permille": 0,
+      "egg": 0,
+      "egg_gda_permille": 0,
+      "carb": 0,
+      "carb_gda_permille": 0
+    }
+  },
+  {
+    "id": 15,
+    "name": "Cola",
+    "amount": "Glas (250 ml)",
+    "img": "url(./res/img/svg/15.svg)",
+    "ingredients": {
+      "cal_kcal": 105,
+      "cal_kJ": 440,
+      "cal_gda_permille": 53,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 26500,
+      "sugar_gda_permille": 530,
+      "fat": 0,
+      "fat_gda_permille": 0,
+      "egg": 0,
+      "egg_gda_permille": 0,
+      "carb": 26500,
+      "carb_gda_permille": 99
+    }
+  },
+  {
+    "id": 16,
+    "name": "Zitronenlimonade",
+    "amount": "Glas (200 ml)",
+    "img": "url(./res/img/svg/16.svg)",
+    "ingredients": {
+      "cal_kcal": 74,
+      "cal_kJ": 310,
+      "cal_gda_permille": 37,
+      "salt": 0,
+      "salt_gda_permille": 13,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 0,
+      "fat_gda_permille": 0,
+      "egg": 0,
+      "egg_gda_permille": 0,
+      "carb": 18200,
+      "carb_gda_permille": 68
+    }
+  },
+  {
+    "id": 17,
+    "name": "Helles (500 ml)",
+    "amount": "",
+    "img": "url(./res/img/svg/17.svg)",
+    "ingredients": {
+      "cal_kcal": 245,
+      "cal_kJ": 1026,
+      "cal_gda_permille": 123,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 0,
+      "fat_gda_permille": 0,
+      "egg": 0,
+      "egg_gda_permille": 0,
+      "carb": 25000,
+      "carb_gda_permille": 93
+    }
+  },  
+  {
+    "id": 18,
+    "name": "Radler (500 ml)",
+    "amount": "",
+    "img": "url(./res/img/svg/18.svg)",
+    "ingredients": {
+      "cal_kcal": 208,
+      "cal_kJ": 871,
+      "cal_gda_permille": 104,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 500,
+      "fat_gda_permille": 8,
+      "egg": 1500,
+      "egg_gda_permille": 21,
+      "carb": 28500,
+      "carb_gda_permille": 106
+    }
+  },
+  {
+    "id": 19,
+    "name": "Weißbier (500 ml)",
+    "amount": "",
+    "img": "url(./res/img/svg/19.svg)",
+    "ingredients": {
+      "cal_kcal": 190,
+      "cal_kJ": 795,
+      "cal_gda_permille": 95,
+      "salt": 0,
+      "salt_gda_permille": 8,
+      "sugar": 1200,
+      "sugar_gda_permille": 24,
+      "fat": 0,
+      "fat_gda_permille": 0,
+      "egg": 1500,
+      "egg_gda_permille": 21,
+      "carb": 15200,
+      "carb_gda_permille": 57
+    }
+  },
+  
+  {
+    "id": 20,
+    "name": "Hefeweizen (500 ml, alkoholfrei)",
+    "amount": "",
+    "img": "url(./res/img/svg/20.svg)",
+    "ingredients": {
+      "cal_kcal": 130,
+      "cal_kJ": 544,
+      "cal_gda_permille": 65,
+      "salt": 0,
+      "salt_gda_permille": 0,
+      "sugar": 0,
+      "sugar_gda_permille": 0,
+      "fat": 0,
+      "fat_gda_permille": 0,
+      "egg": 2500,
+      "egg_gda_permille": 34,
+      "carb": 27000,
+      "carb_gda_permille": 101
+    }
+  }
+]
