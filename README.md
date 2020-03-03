@@ -13,4 +13,3 @@ responsive design, i.e. it works on all common browsers - desktop and mobile (IE
 
 ### ToDos:
 - get better data 
-- Tooltip on small screens can be out of display
