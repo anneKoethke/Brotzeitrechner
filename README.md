@@ -11,4 +11,4 @@ responsive design, i.e. it works on all common browsers - desktop and mobile (IE
 
 
 ### ToDos:
-- get better data 
+- [ ] get better data 
