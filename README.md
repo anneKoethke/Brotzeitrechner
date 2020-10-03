@@ -7,6 +7,10 @@ HTML, CSS, JavaScript, Python, SVG. I did indeed draw those SVGs myself - with G
 responsive design, i.e. it works on all common browsers - desktop and mobile (IE_11 get's a PNG..)
 
 ### what it should look like
++ hovering over the food
+![alt text](https://github.com/anneKoethke/Brotzeitrechner/blob/master/res/img/bzr.png)
+
++ with things selected:
 ![alt text](https://github.com/anneKoethke/Brotzeitrechner/blob/master/res/img/IE_default.png)
 
 
